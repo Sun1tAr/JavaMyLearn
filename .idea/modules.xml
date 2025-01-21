@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/J_learning/J_learning.iml" filepath="$PROJECT_DIR$/J_learning/J_learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaMyLearn.iml" filepath="$PROJECT_DIR$/.idea/JavaMyLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstProject/firstProject.iml" filepath="$PROJECT_DIR$/firstProject/firstProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaLearning/javaLearning.iml" filepath="$PROJECT_DIR$/javaLearning/javaLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jawaLearningPractice/jawaLearningPractice.iml" filepath="$PROJECT_DIR$/jawaLearningPractice/jawaLearningPractice.iml" />
+    </modules>
+  </component>
+</project>
