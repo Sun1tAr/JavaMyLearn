@@ -9,8 +9,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="JavaSwing" />
+        <module name="AppleWarehouse" />
         <module name="MultyFlows" />
+        <module name="JavaSwing" />
         <module name="MySQL" />
       </profile>
     </annotationProcessing>
