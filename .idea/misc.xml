@@ -5,6 +5,9 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/MultyFlows/pom.xml" />
+        <option value="$PROJECT_DIR$/SQL/pom.xml" />
+        <option value="$PROJECT_DIR$/MySQL/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaSwing/pom.xml" />
       </list>
     </option>
   </component>
